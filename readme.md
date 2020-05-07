@@ -4,7 +4,7 @@ This is a CLI based database browser.
 
 ## Usage
 
-	python broswe-db path-to-db
+	python broswe-db.py path-to-db
 
 replace path-to-db with the path to your database.
 
